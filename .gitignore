@@ -1,0 +1,16 @@
+build/
+build_stm32/
+*.o
+*.obj
+*.bin
+*.elf
+*.hex
+.DS_Store
+_deps/
+cmake-build-*/
+.cache/
+compile_commands.json
+RTOSDemo.app/
+*.jsonl
+node_modules/
+*.app/
